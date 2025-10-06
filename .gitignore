@@ -68,6 +68,6 @@ Thumbs.db
 # pnpm
 /pnpm-lock.yaml
 
-# manus-create-react-app specific
-.manus-template-version
+# React app specific
+.template-version
 
